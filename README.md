@@ -1,9 +1,11 @@
 ## 🌺 Aloha! I'm Enrico 👋
 
-Here you find all the projects I worked on in the past, given I'm currently taking care just of people and of scaling teams instead 😅
+Here you'll find a mix of past projects and maybe a few current ones I'm still quietly tinkering with — even though these days I'm mostly focused on **coaching people**, and 🏎️ **performance**.
 
-If you want to say hi, feel free to connect on [LinkedIn](https://www.linkedin.com/in/enricoberti/).
 
-Amazingly talented? Come and join us at [TechWolf](https://techwolf.ai) 🐺 !
+Always happy to chat about engineering culture, product strategy, or race tech.  
+Say hi on [LinkedIn](https://www.linkedin.com/in/enricoberti/).
+
+If you're smart, kind, and ambitious: come join us at [Prema Racing](https://www.premaracing.com) !
 
 
